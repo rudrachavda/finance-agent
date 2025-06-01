@@ -1,0 +1,3 @@
+npm install
+npx shadcn@latest init
+npx shadcn@latest add button card select switch alert-dialog dialog dropdown-menu label toast
